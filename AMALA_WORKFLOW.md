@@ -1,9 +1,13 @@
 # Amala Internship Workflow
 
 - Daily search time: 14:00 Asia/Kolkata.
+- Search scope: worldwide internships open to applicants in India or globally, provided the work is fully remote or online.
 - Model target: `ollama/qwen3:4b`.
-- Scope: remote/online internships only; no application fees; stipend is allowed.
-- Record: company, role, dates and time, remote evidence, location/timezone, stipend, requirements, skills, match percentage, verification needs, application and source links, applied status, application ID, resume version, cover letter, follow-up date, response, rejection reason, and notes.
+- Cost filter: no application fee, registration fee, paid course, paid certificate, or required purchase. A stipend is allowed.
+- Prefer official company career pages and direct employer email applications.
+- Exclude on-site or hybrid roles unless explicitly approved.
+- Record: company, role, country/eligibility, found date, application date/time, remote evidence, timezone, stipend, requirements, skills, match percentage, verification needs, application and source links, applied status, application ID, resume version, cover letter, follow-up date, response, rejection reason, and notes.
 - Use truthful candidate information and the approved resume only.
 - Do not commit resumes, passwords, tokens, OAuth files, or private candidate data.
-- Human verification remains required for CAPTCHA, OTP, identity checks, and final application submission.
+- Stop for CAPTCHA, OTP, identity checks, missing required answers, or any paid requirement.
+- Final job submission or email sending requires action-time approval.
