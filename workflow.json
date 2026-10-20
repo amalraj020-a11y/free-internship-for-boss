@@ -1,0 +1,8 @@
+{
+  "schedule": "14:00 Asia/Kolkata",
+  "model": "ollama/qwen3:4b",
+  "scope": {"remote_only": true, "no_application_fees": true, "stipend_allowed": true},
+  "verification_pause": ["captcha", "otp", "identity_verification", "missing_personal_answer"],
+  "report_channel": "whatsapp",
+  "tracker": "Amala_Internship_Tracker.xlsx"
+}
